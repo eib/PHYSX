@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/eib/PHYSX/issues"
   },
-  "homepage": "https://github.com/eib/PHYSX"
+  "homepage": "https://github.com/eib/PHYSX",
+  "dependencies": {
+    "color": "^0.7.3"
+  }
 }
